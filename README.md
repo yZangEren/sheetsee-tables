@@ -136,5 +136,5 @@ _JavaScript_
 </script>
 ```
 
-_[View Demo](http://jlord.us/sheetsee.js/demos/demo-table.html)_
-_[Visit Site](http://jlord.us/sheetsee.js)_
+_Local Demo_: run `npm run bfy`, then open `test/index.html`.
+_[Visit Site](https://jlord.us/sheetsee.js)_
